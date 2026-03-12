@@ -1,2 +1,2 @@
-# actividad-github-nombre-apellido
+# actividad-github-Alejandro-Gonzalez
 act1
