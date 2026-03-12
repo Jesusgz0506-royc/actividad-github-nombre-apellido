@@ -1,0 +1,4 @@
+Gonzalez Zamorano Jesus Alejandro
+12/03/2026
+aprender el fñuo de trabajo en github
+Pull Request: Es una petición para que el dueño de un repositorio revise tus cambios y los incorpore a la rama principal." > info.txt
